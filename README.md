@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShoubhikRaj
-- 👀 I’m interested in computational chemistry/machine learning
+- 👀 I’m interested in organic and computational chemistry, also machine learning
 
 <!---
 ShoubhikRaj/ShoubhikRaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
